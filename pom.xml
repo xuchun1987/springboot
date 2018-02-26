@@ -12,6 +12,7 @@
         <module>boot-jwt</module>
         <module>boot-https</module>
         <module>boot-beetl</module>
+        <module>boot-session</module>
     </modules>
 
     <parent>
